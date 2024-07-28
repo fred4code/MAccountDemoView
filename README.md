@@ -6,6 +6,7 @@ By downloading and opening the MAccountDemoView.sln solution, the startup projec
 
 Compiling MAccount will result in the following screen:
 
+![image](https://github.com/user-attachments/assets/9c573a37-6663-41f4-a30f-39cab87d603f)
 
 
 To save the data, simply modify the desired fields and press "<" to navigate back or ">" to navigate forward in the records.
